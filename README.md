@@ -7,7 +7,7 @@ This is a simple game created with [Kaplay](https://kaplay.dev/), a JavaScript g
 1. Clone the repository:
     ```sh
     git clone <REPOSITORY_URL>
-    cd kaplay_objects
+    cd retro-Breakout-game
     ```
 
 2. Install the dependencies:
