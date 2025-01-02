@@ -1,6 +1,6 @@
 # Kaplay Brakeout Game
 
-This is a simple game created with [Kaplay](https://kaplay.dev/), a JavaScript game engine. The objective of the game is to destroy all the bricks with a ball controlled by a paddle.
+This is a simple game created with [Kaplay](https://kaplay.dev/https://kaplayjs.com/), a JavaScript game engine. The objective of the game is to destroy all the bricks with a ball controlled by a paddle.
 
 ## Installation
 
